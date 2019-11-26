@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+Backend/ASW.Sensors.API/ASW.Sensors.API/appsettings.Development.json
+Backend/ASW.Sensors.API/ASW.Sensors.API/obj/
+Backend/ASW.Sensors.API/ASW.Sensors.API/bin/
+Backend/ASW.Sensors.API/.vs
